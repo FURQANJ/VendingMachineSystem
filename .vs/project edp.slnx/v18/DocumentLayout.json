@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formsnack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formsnack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formtopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formtopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|c:\\users\\furqa\\downloads\\project edp updated\\project edp\\project edp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formsnack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formsnack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formloginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formloginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormRoadTax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\FormRoadTax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formtopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formtopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\formpayment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\formpayment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\DataSet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\DataSet1.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\FormStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\DataSet1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormEnd.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\FormEnd.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormDrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\FormDrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\CartData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\CartData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormMainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\FormMainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormDrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C99230-615F-4954-83A4-B8C5EF8CC8DB}|project edp\\project edp.csproj|solutionrelative:project edp\\FormDrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 318,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTopUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormTopUp.cs",
+              "RelativeDocumentMoniker": "project edp\\FormTopUp.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormTopUp.cs [Design]",
+              "RelativeToolTip": "project edp\\FormTopUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T06:46:40.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormStart.cs",
+              "RelativeDocumentMoniker": "project edp\\FormStart.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormStart.cs [Design]",
+              "RelativeToolTip": "project edp\\FormStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:35:22.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSnack.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormSnack.cs",
+              "RelativeDocumentMoniker": "project edp\\FormSnack.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormSnack.cs [Design]",
+              "RelativeToolTip": "project edp\\FormSnack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:36:52.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormPayment.cs",
+              "RelativeDocumentMoniker": "project edp\\FormPayment.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormPayment.cs [Design]",
+              "RelativeToolTip": "project edp\\FormPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T08:40:46.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "project edp\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "project edp\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:34:53.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "project edp\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormAdmin.cs",
+              "RelativeToolTip": "project edp\\FormAdmin.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAApwHcBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T15:35:16.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormPayment.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormPayment.cs",
+              "RelativeDocumentMoniker": "project edp\\FormPayment.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormPayment.cs",
+              "RelativeToolTip": "project edp\\FormPayment.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwDMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T02:50:28.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "project edp\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.xsd",
+              "RelativeToolTip": "project edp\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-06-30T07:42:12.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Strings.resx",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\Strings.resx",
+              "RelativeDocumentMoniker": "project edp\\Strings.resx",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\Strings.resx",
+              "RelativeToolTip": "project edp\\Strings.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-30T00:55:20.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormView.cs",
+              "RelativeDocumentMoniker": "project edp\\FormView.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormView.cs [Design]",
+              "RelativeToolTip": "project edp\\FormView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:36:55.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "project edp\\FormAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormAdmin.Designer.cs",
+              "RelativeToolTip": "project edp\\FormAdmin.Designer.cs",
+              "ViewState": "AgIAAAQGAAAAAAAAAEBVwCEGAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T01:32:17.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormSnack.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormSnack.cs",
+              "RelativeDocumentMoniker": "project edp\\FormSnack.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormSnack.cs",
+              "RelativeToolTip": "project edp\\FormSnack.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawPEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:41:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "project edp\\FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormMainMenu.cs [Design]",
+              "RelativeToolTip": "project edp\\FormMainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T06:46:29.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormLoginAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormLoginAdmin.cs",
+              "RelativeDocumentMoniker": "project edp\\FormLoginAdmin.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormLoginAdmin.cs [Design]",
+              "RelativeToolTip": "project edp\\FormLoginAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:34:53.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormView.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormView.cs",
+              "RelativeDocumentMoniker": "project edp\\FormView.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormView.cs",
+              "RelativeToolTip": "project edp\\FormView.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T06:03:28.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormRoadTax.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormRoadTax.cs",
+              "RelativeDocumentMoniker": "project edp\\FormRoadTax.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormRoadTax.cs",
+              "RelativeToolTip": "project edp\\FormRoadTax.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAIwKQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:20:11.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormEnd.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormEnd.cs",
+              "RelativeDocumentMoniker": "project edp\\FormEnd.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormEnd.cs",
+              "RelativeToolTip": "project edp\\FormEnd.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAjwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T06:46:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormTopUp.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormTopUp.cs",
+              "RelativeDocumentMoniker": "project edp\\FormTopUp.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormTopUp.cs",
+              "RelativeToolTip": "project edp\\FormTopUp.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAjwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T06:47:19.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormEnd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormEnd.cs",
+              "RelativeDocumentMoniker": "project edp\\FormEnd.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormEnd.cs [Design]",
+              "RelativeToolTip": "project edp\\FormEnd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T00:49:13.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormPayment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormPayment.Designer.cs",
+              "RelativeDocumentMoniker": "project edp\\FormPayment.Designer.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormPayment.Designer.cs",
+              "RelativeToolTip": "project edp\\FormPayment.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:21:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataSet1.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.cs",
+              "RelativeDocumentMoniker": "project edp\\DataSet1.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.cs",
+              "RelativeToolTip": "project edp\\DataSet1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:19:10.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataSet1.xsc",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.xsc",
+              "RelativeDocumentMoniker": "project edp\\DataSet1.xsc",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.xsc",
+              "RelativeToolTip": "project edp\\DataSet1.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2026-06-22T01:19:07.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormStart.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormStart.cs",
+              "RelativeDocumentMoniker": "project edp\\FormStart.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormStart.cs",
+              "RelativeToolTip": "project edp\\FormStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:17:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataSet1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.Designer.cs",
+              "RelativeDocumentMoniker": "project edp\\DataSet1.Designer.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\DataSet1.Designer.cs",
+              "RelativeToolTip": "project edp\\DataSet1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:17:49.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormEnd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormEnd.Designer.cs",
+              "RelativeDocumentMoniker": "project edp\\FormEnd.Designer.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormEnd.Designer.cs",
+              "RelativeToolTip": "project edp\\FormEnd.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:17:45.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormDrink.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormDrink.cs",
+              "RelativeDocumentMoniker": "project edp\\FormDrink.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormDrink.cs [Design]",
+              "RelativeToolTip": "project edp\\FormDrink.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T00:53:57.366Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartData.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\CartData.cs",
+              "RelativeDocumentMoniker": "project edp\\CartData.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\CartData.cs",
+              "RelativeToolTip": "project edp\\CartData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:16:58.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "project edp\\FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormMainMenu.cs",
+              "RelativeToolTip": "project edp\\FormMainMenu.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:23:35.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormDrink.cs",
+              "DocumentMoniker": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormDrink.cs",
+              "RelativeDocumentMoniker": "project edp\\FormDrink.cs",
+              "ToolTip": "C:\\Users\\furqa\\Downloads\\project edp updated\\project edp\\project edp\\FormDrink.cs",
+              "RelativeToolTip": "project edp\\FormDrink.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:20:53.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1470,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

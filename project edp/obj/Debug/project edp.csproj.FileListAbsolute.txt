@@ -1,0 +1,87 @@
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\bin\Debug\Database1.mdf
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\bin\Debug\Database1_log.ldf
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\bin\Debug\project edp.exe.config
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\bin\Debug\project edp.exe
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\bin\Debug\project edp.pdb
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\bin\Debug\en\project edp.resources.dll
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\bin\Debug\ms\project edp.resources.dll
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project edp.csproj.AssemblyReference.cache
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormDrink.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormStart.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormEnd.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormMainMenu.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormTopUp.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormRoadTax.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormView.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormSnack.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormAdmin.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormLoginAdmin.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.FormPayment.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.Properties.Resources.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.Strings.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.Strings.en.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project_edp.Strings.ms.resources
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project edp.csproj.GenerateResource.cache
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project edp.csproj.CoreCompileInputs.cache
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\en\project edp.resources.dll
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\ms\project edp.resources.dll
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project edp.exe
+C:\Users\furqa\source\repos\VendingMachineSystemClone\project edp\project edp\obj\Debug\project edp.pdb
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\bin\Debug\Database1.mdf
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\bin\Debug\Database1_log.ldf
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\bin\Debug\project edp.exe.config
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\bin\Debug\project edp.exe
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\bin\Debug\project edp.pdb
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\bin\Debug\en\project edp.resources.dll
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\bin\Debug\ms\project edp.resources.dll
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project edp.csproj.AssemblyReference.cache
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormDrink.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormStart.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormEnd.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormMainMenu.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormTopUp.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormRoadTax.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormView.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormSnack.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormAdmin.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormLoginAdmin.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.FormPayment.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.Properties.Resources.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.Strings.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.Strings.en.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project_edp.Strings.ms.resources
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project edp.csproj.GenerateResource.cache
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project edp.csproj.CoreCompileInputs.cache
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\en\project edp.resources.dll
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\ms\project edp.resources.dll
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project edp.exe
+C:\Users\DOGEW\Downloads\UTeM\2DCS Sem 2\DITP2123 EDP\project edp\project edp\obj\Debug\project edp.pdb
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project edp.csproj.AssemblyReference.cache
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project edp.exe
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project edp.pdb
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\bin\Debug\Database1.mdf
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\bin\Debug\Database1_log.ldf
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\bin\Debug\project edp.exe.config
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\bin\Debug\project edp.exe
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\bin\Debug\project edp.pdb
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\bin\Debug\en\project edp.resources.dll
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\bin\Debug\ms\project edp.resources.dll
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormDrink.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormStart.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormEnd.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormMainMenu.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormTopUp.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormRoadTax.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormView.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormSnack.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormAdmin.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormLoginAdmin.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.FormPayment.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.Properties.Resources.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.Strings.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.Strings.en.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project_edp.Strings.ms.resources
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project edp.csproj.GenerateResource.cache
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\project edp.csproj.CoreCompileInputs.cache
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\en\project edp.resources.dll
+C:\Users\furqa\Downloads\project edp updated\project edp\project edp\obj\Debug\ms\project edp.resources.dll
